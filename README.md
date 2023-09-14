@@ -1,6 +1,6 @@
 # Algorithm_Interactive_Tool
 
-This project is developed using HTML, CSS and JavaScript. It helps to visualize sorting algorithms and Pathfinding Algoritm. It can be viewed here
+This project is developed using HTML, CSS and JavaScript. It helps to visualize sorting algorithms and Pathfinding Algoritm. It can be viewed here: https://wankanda-143.github.io/Algorithm_Interactive_Tool/
 
 
 ## Sorting Agorithm
